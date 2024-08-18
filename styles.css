@@ -44,8 +44,8 @@
 
 @media (max-width: 768px) {
   .container {
+    transform: rotate(90deg);
     img {
-      transform: rotate(90deg);
       width: 500px;
     }
   }
@@ -53,9 +53,8 @@
 
 @media (max-width: 340px) {
   .container {
-    flex-direction: column;
+    transform: rotate(90deg);
     img {
-      transform: rotate(90deg);
       width: 200px;
     }
   }
