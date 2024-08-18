@@ -45,6 +45,7 @@
 @media (max-width: 768px) {
   .container {
     img {
+      transform: rotate(90deg);
       width: 500px;
     }
   }
