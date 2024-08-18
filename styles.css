@@ -54,6 +54,7 @@
   .container {
     flex-direction: column;
     img {
+      transform: rotate(90deg);
       width: 200px;
     }
   }
