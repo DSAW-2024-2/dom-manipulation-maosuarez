@@ -72,8 +72,10 @@ button.btn-der {
   right: 10px;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 450px) {
   .container {
     transform: rotate(90deg);
+    width: 95%;
+    max-width: 800px;
   }
 }
